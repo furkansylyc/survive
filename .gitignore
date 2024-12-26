@@ -1,0 +1,13 @@
+Assets/
+/Packages
+/UserSetting
+/ProjectSettings
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+.vs/
+.idea/
+.vscode/
+.userprefs
